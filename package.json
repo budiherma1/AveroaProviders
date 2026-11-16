@@ -1,6 +1,6 @@
 {
   "name": "@averoa/providers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "DEPRECATED: re-exports app/Providers for AveroaJS 1.x. Use the #providers subpath import in AveroaJS 2.0.",
   "main": "index.js",
   "type": "module",
